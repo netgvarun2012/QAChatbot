@@ -4,7 +4,7 @@ Upload a document and the app let's you ask questions related to it.
 
 # DOCUMENT ANALYZER GEN-AI APP - *INTELLIGENT DOCUMENT ANALYZER CHATBOT*
 
-Check out the app at [https://documentanalyzerlangchain2.streamlit.app/](https://documentanalyzerlangchain2.streamlit.app/)
+Check out the app at [https://questionansweringbot.streamlit.app/](https://questionansweringbot.streamlit.app/)
 
 **UserName: admin**
 
@@ -21,14 +21,13 @@ Check out the app at [https://documentanalyzerlangchain2.streamlit.app/](https:/
 # Introduction <a id="introduction"></a>
 
 This repository details the technical and functional aspects of *'Document Analyzer'* app - an Intelligent chatbot ssistant that allows users to upload documents in *pdf,txt and doc* format and then ask questions based on them!
-By default, it answers questions pertaining to professional qualifications of its creator - [Varun Sharma](https://www.linkedin.com/in/sharmavaruncs/)
+By default, it answers questions pertaining to Topical Chat dataset from Amazon! It consists of over 8000 conversations and over 184000 messages.
 
 Under the hood this app utilized state of the art models - Langchain and Language Models (LLMs) to create a chat interface where users can ask questions and receive responses. 
 
 
 # Recorded Demos <a id="demos"></a>
 
-https://github.com/netgvarun2012/DocumentAnalyzer/assets/93938450/dd23cd77-6a86-4765-a52c-ed8613c61354
 
 # Setup and Requirements <a id="installation"></a>
 
