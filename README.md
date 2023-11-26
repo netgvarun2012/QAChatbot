@@ -23,7 +23,7 @@ Check out the app at [https://questionansweringbot.streamlit.app/](https://quest
 This repository details the technical and functional aspects of *'Document Analyzer'* app - an Intelligent chatbot ssistant that allows users to upload documents in *pdf,txt and doc* format and then ask questions based on them!
 By default, it answers questions pertaining to Topical Chat dataset from Amazon! It consists of over 8000 conversations and over 184000 messages.
 
-** Due to resourse limits - the app only had 1000 topical chat conversations uploaded currently. **
+** Due to resourse limits - the app only has 1000 topical chat conversations uploaded currently. **
 
 
 Under the hood, this app utilizes state of the art models - Langchain and Language Models (LLMs) to create a chat interface where users can ask questions and receive responses. 
