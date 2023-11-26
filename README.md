@@ -27,7 +27,9 @@ Under the hood, this app utilizes state of the art models - Langchain and Langua
 
 
 # Recorded Demos <a id="demos"></a>
-https://github.com/netgvarun2012/QAChatbot/blob/master/26.11.2023_12.11.10_REC.mp4
+
+https://github.com/netgvarun2012/QAChatbot/assets/93938450/822559ec-b09b-4482-94c8-2621fff9fcfe
+
 
 # Setup and Requirements <a id="installation"></a>
 
