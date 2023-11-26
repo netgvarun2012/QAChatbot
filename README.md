@@ -1,8 +1,8 @@
-# Document Annalyzer
+# QA Chatbot
 
 Upload a document and the app let's you ask questions related to it.
 
-# DOCUMENT ANALYZER GEN-AI APP - *INTELLIGENT DOCUMENT ANALYZER CHATBOT*
+# QA Chatbot GEN-AI APP - *INTELLIGENT DOCUMENT ANALYZER CHATBOT*
 
 Check out the app at [https://questionansweringbot.streamlit.app/](https://questionansweringbot.streamlit.app/)
 
