@@ -1,0 +1,4 @@
+A Gen AI app that by default generates information pertaining to Topical Chat dataset from Amazon! It consists of over 8000 conversations and over 184000 messages.
+
+However, this app also allows uploading of documents of txt,pdf,.doc format 
+and allows user to interact with questions pertaining to it.

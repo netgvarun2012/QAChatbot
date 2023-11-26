@@ -1,0 +1,15 @@
+langchain==0.0.281
+streamlit
+openai==0.27.10
+arrow==1.2.3
+pyarrow==12.0.1
+chroma-hnswlib==0.7.2
+chromadb==0.4.9
+tiktoken
+pypdf
+unstructured==0.10.13
+unstructured-inference==0.5.25
+pdfminer
+poppler-utils
+pysqlite3-binary
+unstructured[docx]
